@@ -1,2 +1,2 @@
 # MNIST_Kaggle
-MNIST Digit classifies
+MNIST Digit classifier
